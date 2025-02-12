@@ -33,4 +33,4 @@ A simple CLI tool for downloading GIFs
 
 To install, run `npm install -g gifus` and enjoy...
 
-### Make sure to create a free API key on <https://developers.giphy.com/> and add it to your `.env` file
+### Before using, make sure to create a free API key on <https://developers.giphy.com/> and add it to your environment vartiables, e.g. `export API_KEY=ASFK7786676878HJJ`
