@@ -1,0 +1,22 @@
+{
+  "name": "gifus",
+  "version": "1.0.0",
+  "description": "A simple CLI tool for downloading GIFs",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "files": [
+    "/src"
+  ],
+  "bin": {
+    "gifus": "src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "github": "https://github.com/Yar1991/gifus",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
