@@ -31,6 +31,8 @@ A simple CLI tool for downloading GIFs
 5. Exit
 ```
 
+By default, GIFs will be downloaded to the `~/Download` folder
+
 To install, run `npm install -g gifus` and enjoy...
 
 ### Before using, make sure to create a free API key on <https://developers.giphy.com/> and add it to your environment vartiables, e.g. `export API_KEY=ASFK7786676878HJJ`
